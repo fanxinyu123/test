@@ -5,6 +5,7 @@
 </template>
 
 <script>
+//这是樊新雨的第一个文件夹
 export default {
   name: 'App'
 }
