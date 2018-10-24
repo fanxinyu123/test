@@ -6,6 +6,7 @@
 
 <script>
 //这是樊新雨的第二个文件夹
+//这是樊新雨的第一个文件夹
 export default {
   name: 'App'
 }
